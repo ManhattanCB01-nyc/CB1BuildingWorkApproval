@@ -1,2 +1,4 @@
 # CB1Construction-Automation
-This is a test of the official dashboard workflow
+
+This is the workflow dashboard that shows where you can see and know where the work is actually happening.
+
